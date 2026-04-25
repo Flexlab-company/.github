@@ -29,3 +29,12 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
+
+
+# 🚀 Kaspa Memes
+
+![CI](https://github.com/Flexlab-company/kaspamemes/actions/workflows/main.yml/badge.svg)
+![Version](https://img.shields.io/github/v/release/Flexlab-company/kaspamemes)
+![License](https://img.shields.io/github/license/Flexlab-company/kaspamemes)
+![Last Commit](https://img.shields.io/github/last-commit/Flexlab-company/kaspamemes)
+![Issues](https://img.shields.io/github/issues/Flexlab-company/kaspamemes)
