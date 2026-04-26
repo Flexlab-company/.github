@@ -1,46 +1,25 @@
+<h1 align="center">🚀 Flexlab</h1>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Flexlab-company/.github/main/flexlab-banner.png" width="100%" />
 </p>
 
+---
 
-![Last Commit](https://img.shields.io/github/last-commit/Flexlab-company/kaspamemes)
-![Issues](https://img.shields.io/github/issues/Flexlab-company/kaspamemes)
-![Pull Requests](https://img.shields.io/github/issues-pr/Flexlab-company/kaspamemes)
-![Repo Size](https://img.shields.io/github/repo-size/Flexlab-company/kaspamemes)
-# 🚀 Kaspa Memes
+## 📊 GitHub Stats
 
-![CI](https://github.com/Flexlab-company/kaspamemes/actions/workflows/main.yml/badge.svg)
-![Last Commit](https://img.shields.io/github/last-commit/Flexlab-company/kaspamemes)
-![Repo Size](https://img.shields.io/github/repo-size/Flexlab-company/kaspamemes)
-![Issues](https://img.shields.io/github/issues/Flexlab-company/kaspamemes)
-![Pull Requests](https://img.shields.io/github/issues-pr/Flexlab-company/kaspamemes)
-![Stars](https://img.shields.io/github/stars/Flexlab-company/kaspamemes)
-![Forks](https://img.shields.io/github/forks/Flexlab-company/kaspamemes)
-![License](https://img.shields.io/github/license/Flexlab-company/kaspamemes)
+![Followers](https://img.shields.io/github/followers/Flexlab-company)
+![Stars](https://img.shields.io/github/stars/Flexlab-company?affiliations=OWNER%2CCOLLABORATOR)
+![Profile Views](https://komarev.com/ghpvc/?username=Flexlab-company)
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 Activity
 
-![Node.js](https://img.shields.io/badge/Node.js-Backend-brightgreen)
-![TypeScript](https://img.shields.io/badge/TypeScript-Code-blue)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-Framework-black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flexlab-company&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flexlab-company&layout=compact)
 
 ---
 
-## 📊 Status
-
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
-
-
-# 🚀 Kaspa Memes
-
-![CI](https://github.com/Flexlab-company/kaspamemes/actions/workflows/main.yml/badge.svg)
-![Version](https://img.shields.io/github/v/release/Flexlab-company/kaspamemes)
-![License](https://img.shields.io/github/license/Flexlab-company/kaspamemes)
-![Last Commit](https://img.shields.io/github/last-commit/Flexlab-company/kaspamemes)
-![Issues](https://img.shields.io/github/issues/Flexlab-company/kaspamemes)
+## 🧠 About Us
+We build scalable web, blockchain, and data-driven systems focused on performance and real-world impact.
