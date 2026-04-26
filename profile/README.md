@@ -1,6 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Flexlab-company/.github/main/flexlab-banner.png" width="100%" />
 </p>
+
+
+![Last Commit](https://img.shields.io/github/last-commit/Flexlab-company/kaspamemes)
+![Issues](https://img.shields.io/github/issues/Flexlab-company/kaspamemes)
+![Pull Requests](https://img.shields.io/github/issues-pr/Flexlab-company/kaspamemes)
+![Repo Size](https://img.shields.io/github/repo-size/Flexlab-company/kaspamemes)
 # 🚀 Kaspa Memes
 
 ![CI](https://github.com/Flexlab-company/kaspamemes/actions/workflows/main.yml/badge.svg)
